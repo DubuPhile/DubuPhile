@@ -1,5 +1,3 @@
-![](https://media.wallpaperengine.space/card-thumbs/v1/blue-lock-isagi-dual-instinct.webp)
-
 # Hi there, I'm Charles Christian Enage! 👋
 
 ### Aspiring Full-Stack Web Developer | React & Node.js Developer
