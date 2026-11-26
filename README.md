@@ -1,4 +1,4 @@
-![](https://images.alphacoders.com/136/1360763.jpeg)
+![](https://media.wallpaperengine.space/card-thumbs/v1/blue-lock-isagi-dual-instinct.webp)
 
 # Hi there, I'm Charles Christian Enage! 👋
 
