@@ -8,9 +8,6 @@ I have hands-on experience developing web applications using React, Next.js, Nod
 
 I enjoy learning new technologies, solving problems, and continuously improving my development skills through personal projects.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DubuPhile&theme=terafox)](https://git.io/streak-stats) 
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubuPhile&layout=donut)
 
 ## 🚀 About Me
