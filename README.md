@@ -1,3 +1,4 @@
+![](https://images.alphacoders.com/136/1360763.jpeg)
 
 # Hi there, I'm Charles Christian Enage! 👋
 
