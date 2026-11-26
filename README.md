@@ -12,7 +12,7 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DubuPhile&theme=terafox)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubuPhile&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubuPhile&layout=donut)
 ## 🚀 About Me
 
 
