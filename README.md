@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**DubuPhile/DubuPhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Charles Christian Enage! 👋
 
-Here are some ideas to get you started:
+### Aspiring Full-Stack Web Developer | React & Node.js Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Full-Stack Web Developer from the Philippines 🇵🇭 who enjoys building modern, responsive, and user-friendly web applications.
+
+I have hands-on experience developing web applications using React, Next.js, Node.js, Express.js, and TypeScript, with a focus on creating functional user interfaces and building reliable backend APIs.
+
+I enjoy learning new technologies, solving problems, and continuously improving my development skills through personal projects.
+
+## Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DubuPhile&theme=terafox)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubuPhile&layout=compact)
+## 🚀 About Me
+
+
+💻 Passionate about Full-Stack Web Development.
+
+🌱 Currently improving my skills in Next.js, TypeScript, and backend development.
+
+🔨 Building projects using React, Node.js, Express, and PostgreSQL.
+
+🗄️ Experienced with REST APIs, database management, and authentication.
+
+🤝 Open to internships, junior developer opportunities, and collaborations.
+
+🎯 Goal: Become a skilled and well-rounded Software Developer.
+## 🛠 Skills
+Frontend
+
+* HTML5, CSS3, JavaScript, TypeScript
+
+* React.js, Next.js
+
+* Tailwind CSS, Bootstrap
+
+* Redux Toolkit, RTK Query
+
+Backend
+
+* Node.js, Express.js
+
+* REST API Development
+
+* JWT Authentication
+
+* Zod Validation
+
+Database & ORM
+
+* MongoDB, PostgreSQL
+
+* Prisma, Mongoose
+
+Tools & Platforms
+
+* Git & GitHub
+
+* VS Code
+
+* Postman
+
+* Firebase
+
+* Vercel
+
+* Docker
