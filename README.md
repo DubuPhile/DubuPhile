@@ -12,6 +12,7 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DubuPhile&theme=terafox)](https://git.io/streak-stats) 
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubuPhile&layout=donut)
 ## 🚀 About Me
 
@@ -27,43 +28,3 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 🤝 Open to internships, junior developer opportunities, and collaborations.
 
 🎯 Goal: Become a skilled and well-rounded Software Developer.
-## 🛠 Skills
-Frontend
-
-* HTML5, CSS3, JavaScript, TypeScript
-
-* React.js, Next.js
-
-* Tailwind CSS, Bootstrap
-
-* Redux Toolkit, RTK Query
-
-Backend
-
-* Node.js, Express.js
-
-* REST API Development
-
-* JWT Authentication
-
-* Zod Validation
-
-Database & ORM
-
-* MongoDB, PostgreSQL
-
-* Prisma, Mongoose
-
-Tools & Platforms
-
-* Git & GitHub
-
-* VS Code
-
-* Postman
-
-* Firebase
-
-* Vercel
-
-* Docker
